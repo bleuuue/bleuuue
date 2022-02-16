@@ -38,8 +38,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href="">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bleuuue&layout=compact"/>
-      <!-- "https://github-readme-stats.vercel.app/api/top-langs/?username=bleuuue&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10" -->
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bleuuue&layout=compact&card_width=350"/>
   </a>
   <h4>[Tech Stack]</h4>
   <p>Techs that I've used at least once </p>
