@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <a href="">
       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bleuuue&layout=compact&card_width=350"/>
   </a>
-  <h4>[Tech Stack]</h4>
+  <h3>[Tech Stack]</h3>
   <p>Techs that I've used at least once </p>
   <p>
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp 
