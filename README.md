@@ -14,30 +14,48 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="mailto:hyeonn910@gmail.com"><img src="https://img.shields.io/badge/hyeonn910@gmail.com-EC3B2D?style=flat-square&logo=Gmail&logoColor=white&link=songthdo427@gmail.com"/></a>
+<a href="mailto:hyeonn910@gmail.com"><img src="https://img.shields.io/badge/hyeonn910@gmail.com-EC3B2D?style=flat-square&logo=Gmail&logoColor=white&link=hyeonn910@gmail.com"/></a>
 
-### Hi, I'm JungHyeon 👋
-I'm currently looking for a front-end developer. <br />
-  
 <div>
-  <a href="">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bleuuue&layout=compact"/>
-    <!-- "https://github-readme-stats.vercel.app/api/top-langs/?username=bleuuue&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10" -->
-  </a>
-  <div align="center">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=bleuuue&count_private=true"/>
+  <!-- 전체 커밋 수 여부 : include_all_commits=true 테두리 표시 여부 : hide_border=true -->
+ 
+  ### Hi, I'm JungHyeon 👋
+  I'm currently looking for a front-end developer.
+
+  <br>
+ 
+ <a href=""/></a>
+ 
+ <br>
+ <br>
+ <br>
+</div>
+
+
+<a href=""></a>
+---
+
+<br>
+
+<a href="">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bleuuue&layout=compact"/>
+      <!-- "https://github-readme-stats.vercel.app/api/top-langs/?username=bleuuue&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10" -->
+</a>
+
+<div>
     <h4>[Tech Stack]</h4>
-    <p>Techs that I've used at least once </p>
     <p>
       <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp 
       <img src="https://img.shields.io/badge/React-424958?style=flat-square&logo=React&logoColor=61DAFB"/> &nbsp
       <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>&nbsp 
       <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      <br />
+      <br>
       <img src="https://img.shields.io/badge/Kotlin-7B6DDC?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp 
       <img src="https://img.shields.io/badge/Android-8BBF4B?style=flat-square&logo=Android&logoColor=white"/>&nbsp 
       <img src="https://img.shields.io/badge/Java-BF5B16?style=flat-square&logo=Java&logoColor=white"/>&nbsp 
       <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=Git&logoColor=white"/>&nbsp 
-      <br />
+      <br>
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp 
       <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
       <img src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=Unity&logoColor=white"/>&nbsp 
@@ -47,18 +65,6 @@ I'm currently looking for a front-end developer. <br />
     </p>
   </div>
 </div>
-
-<a href=""></a>
----
-
-
-
-<div align="center">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bleuuue&count_private=true)
-  <!-- 전체 커밋 수 여부 : include_all_commits=true
-       테두리 표시 여부 : hide_border=true -->
- </div>
      
 
 
