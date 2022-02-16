@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=bleuuue&count_private=true"/>
-  <!-- 전체 커밋 수 여부 : include_all_commits=true 테두리 표시 여부 : hide_border=true -->
+  <!-- 전체 커밋 수 여부 : include_all_commits=true 테두리 표시 여부 : hide_border=true 숨기기 hide=contribs -->
  
   ### Hi, I'm JungHyeon 👋
   I'm currently looking for a front-end developer.
