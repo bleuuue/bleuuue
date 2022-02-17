@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <p>Techs that I've used at least once </p>
   <p>
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp 
-    <img src="https://img.shields.io/badge/React-424958?style=flat-square&logo=React&logoColor=61DAFB"/> &nbsp
+    <img src="https://img.shields.io/badge/React-424958?style=flat-square&logo=React&logoColor=61DAFB"/>&nbsp
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
     <br>
