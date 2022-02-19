@@ -21,8 +21,9 @@ Here are some ideas to get you started:
   <!-- 전체 커밋 수 여부 : include_all_commits=true 테두리 표시 여부 : hide_border=true 숨기기 hide=contribs -->
  
   ### Hi, I'm JungHyeon 👋
-  I'm currently looking for a position as <br> a front-end developer.
-
+  I'm currently looking for a position as <br> a front-end developer. <br>
+  <br>
+  Interested in working on front-end using React, Javascript and Kotlin that I'm studying.
   <br>
  
  <a href=""/></a>
