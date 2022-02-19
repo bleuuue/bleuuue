@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   ### Hi, I'm JungHyeon 👋
   I'm currently looking for a position as <br> a **front-end developer**. <br>
   <br>
-  Interested in working on front-end using `React`, `Javascript` and `Kotlin` that I'm studying.<br>
+  Interested in working on front-end using **React**, **Javascript** and **Kotlin** that I'm studying.<br>
   <br>
   **Happy Coding!** ☺️
 </div>
