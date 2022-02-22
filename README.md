@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   ### Hi, I'm JungHyeon 👋
   I'm currently looking for a position as <br> a **front-end developer**. <br>
   <br>
-  Interested in working on front-end using **React**, **Javascript** and **Kotlin** that I'm studying.<br>
+  Interested in working on front-end using **React**, **JavaScript** and **Kotlin** that I'm studying.<br>
   <br>
   **Happy Coding!** ☺️
 </div>
@@ -39,9 +39,9 @@ Here are some ideas to get you started:
   <h3>[Tech Stack]</h3>
   <p>Techs that I've used at least once </p>
   <p>
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp 
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/React-424958?style=flat-square&logo=React&logoColor=61DAFB"/>&nbsp
-    <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>&nbsp 
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp
     <br>
     <img src="https://img.shields.io/badge/Kotlin-7B6DDC?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp 
