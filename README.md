@@ -42,7 +42,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/React-424958?style=flat-square&logo=React&logoColor=61DAFB"/>&nbsp
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>&nbsp 
-    <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp
     <br>
     <img src="https://img.shields.io/badge/Kotlin-7B6DDC?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/Android-8BBF4B?style=flat-square&logo=Android&logoColor=white"/>&nbsp 
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=Unity&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/C%23-7B3399?style=flat-square&logo=Csharpg&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp 
-    <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>&nbsp 
+    <img src="https://img.shields.io/badge/MySQL-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>&nbsp 
   </p>
 </div>
      
