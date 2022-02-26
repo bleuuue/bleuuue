@@ -47,6 +47,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Kotlin-7B6DDC?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/Android-8BBF4B?style=flat-square&logo=Android&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/Java-BF5B16?style=flat-square&logo=Java&logoColor=white"/>&nbsp 
+    <img src="https://img.shields.io/badge/NestJS-black?style=flat-square&logo=NestJS&logoColor=DB2153"/>&nbsp 
     <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=Git&logoColor=white"/>&nbsp 
     <br>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp 
