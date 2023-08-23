@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="mailto:bleuuue@gmail.com"><img src="https://img.shields.io/badge/hyeonn910@gmail.com-EC3B2D?style=flat-square&logo=Gmail&logoColor=white&link=hyeonn910@gmail.com"/></a>
+<a href="mailto:bleuuue@gmail.com"><img src="https://img.shields.io/badge/bleuuue@gmail.com-EC3B2D?style=flat-square&logo=Gmail&logoColor=white&link=bleuuue@gmail.com"/></a>
 
 <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=bleuuue&count_private=true"/>
