@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <a href="mailto:bleuuue@gmail.com"><img src="https://img.shields.io/badge/bleuuue@gmail.com-EC3B2D?style=flat-square&logo=Gmail&logoColor=white&link=bleuuue@gmail.com"/></a>
 
 <div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=bleuuue&count_private=true"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=bleuuue&include_all_commits=true"/>
   <!-- 전체 커밋 수 여부 : include_all_commits=true 테두리 표시 여부 : hide_border=true 숨기기 hide=contribs -->
  
   ### Hi, I'm JungHyeon 👋
