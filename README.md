@@ -21,9 +21,9 @@ Here are some ideas to get you started:
   <!-- 전체 커밋 수 여부 : include_all_commits=true 테두리 표시 여부 : hide_border=true 숨기기 hide=contribs -->
  
   ### Hi, I'm JungHyeon 👋
-  I'm currently looking for a position as a **Front-End Developer**. <br>
+  I'm currently looking for a position as <br> a **Front-End Developer**. <br>
   <br>
-  Interested in working on front-end using **React** and **TypeScript** <br> that I've experienced.<br>
+  Interested in working on front-end using **React** and **TypeScript** that I've experienced.<br>
   <br>
   **Happy Coding!** ☺️
 </div>
